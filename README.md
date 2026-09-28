@@ -1,11 +1,15 @@
 # Portfólio — Danilo Rabelo
 
-Site pessoal para apresentação profissional, experiência, formação, conhecimentos e projetos.
+Site pessoal com minha apresentação profissional, experiência, formação, conhecimentos e projetos.
 
-## Como usar
-Abra `index.html` no navegador.
+🔗 **Ver o site:** https://SEU-USUARIO.github.io/portfolio
 
-## Próximos passos
-- Substituir os links `GitHub →` pelos repositórios reais.
-- Colocar seu e-mail no botão de contato.
-- Adicionar seus projetos à medida que forem criados.
+## Sobre mim
+Estudante de Análise e Desenvolvimento de Sistemas na FSA e profissional de Service Desk na Tecnocomp.
+
+## Tecnologias usadas
+- HTML
+- CSS
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/danilo-rabelo-1b6387349/
