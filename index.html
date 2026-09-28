@@ -31,8 +31,9 @@ h1{font-size:clamp(46px,7vw,86px);line-height:.98;letter-spacing:-4px;max-width:
 .hero p{font-size:18px;color:var(--muted);max-width:690px;margin:26px 0 32px}
 .actions{display:flex;gap:12px;flex-wrap:wrap}.btn{padding:13px 18px;border-radius:14px;border:1px solid var(--line);background:var(--panel);font-weight:700}.btn.primary{background:var(--text);color:#090c12;border-color:var(--text)}.btn:hover{transform:translateY(-2px)}
 .hero-card{background:linear-gradient(145deg,rgba(255,255,255,.07),rgba(255,255,255,.02));border:1px solid var(--line);border-radius:32px;padding:24px;box-shadow:0 30px 90px rgba(0,0,0,.35)}
-.profile{display:grid;place-items:center;aspect-ratio:1;border-radius:24px;background:
+.profile{display:grid;place-items:center;aspect-ratio:1;border-radius:24px;overflow:hidden;background:
 linear-gradient(135deg,rgba(96,165,250,.16),rgba(110,231,183,.12)),#0d121e;border:1px solid var(--line)}
+.profile img{width:100%;height:100%;object-fit:cover}
 .initials{font-size:110px;font-weight:900;letter-spacing:-8px;background:linear-gradient(135deg,#fff,var(--accent2),var(--accent));-webkit-background-clip:text;color:transparent}
 .stats{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:12px}.stat{background:var(--panel);border:1px solid var(--line);padding:14px;border-radius:16px}.stat b{font-size:22px}.stat small{display:block;color:var(--muted)}
 section{padding:95px 0}.section-head{display:flex;justify-content:space-between;gap:30px;align-items:end;margin-bottom:34px}.kicker{color:var(--accent);font-weight:800;text-transform:uppercase;font-size:12px;letter-spacing:2px}.section-head h2{font-size:42px;letter-spacing:-2px;margin-top:8px}.section-head p{color:var(--muted);max-width:520px}
@@ -64,7 +65,7 @@ footer{padding:35px 0;border-top:1px solid var(--line);color:var(--muted);font-s
     </div>
   </div>
   <div class="hero-card">
-    <div class="profile"><div class="initials">DR</div></div>
+    <div class="profile"><img src="foto.jpg" alt="Foto de Danilo Rabelo"></div>
     <div class="stats">
       <div class="stat"><b>ADS</b><small>Formação · FSA</small></div>
       <div class="stat"><b>Service Desk</b><small>Emprego · Tecnocomp</small></div>
