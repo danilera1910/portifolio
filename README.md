@@ -2,7 +2,7 @@
 
 Site pessoal com minha apresentação profissional, experiência, formação, conhecimentos e projetos.
 
-🔗 **Ver o site:** https://SEU-USUARIO.github.io/portfolio
+🔗 **Ver o site:** https://danilera1910.github.io/portfolio
 
 ## Sobre mim
 Estudante de Análise e Desenvolvimento de Sistemas na FSA e profissional de Service Desk na Tecnocomp.
